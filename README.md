@@ -6,3 +6,6 @@ https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/virtua
 
 how it executes in vmware
 https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/techpaper/software_hardware_tech_x86_virt.pdf
+
+http://blog.vmsplice.net/
+https://www.csd.uoc.gr/~hy428/reading/qemu-internals-slides-apr18-2016.pdf
