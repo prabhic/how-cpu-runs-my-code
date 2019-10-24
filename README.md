@@ -9,3 +9,7 @@ https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/techpaper/soft
 
 http://blog.vmsplice.net/
 https://www.csd.uoc.gr/~hy428/reading/qemu-internals-slides-apr18-2016.pdf
+
+CPU emulattion core files QEMU vs v86 Javascript emulator
+https://git.qemu.org/?p=qemu.git;a=blob_plain;f=cpus.c;hb=refs/heads/master
+https://github.com/copy/v86/blob/master/src/cpu.js
