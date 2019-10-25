@@ -7,7 +7,7 @@ cpu overview
 https://www.youtube.com/watch?v=cNN_tTXABUA
 
 cpu diy
-https://www.youtube.com/watch?v=tHHKoiVzqfE
+https://eater.net/8bit/alu
 
 computer diy in minecraft
 https://minecraft.gamepedia.com/Tutorials/Redstone_computers
