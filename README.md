@@ -3,7 +3,10 @@ end to end understanding of the way my code executes in computer.
 
 All about CPU tick
 
-diy cpu
+cpu overview
+https://www.youtube.com/watch?v=cNN_tTXABUA
+
+cpu diy
 https://www.youtube.com/watch?v=tHHKoiVzqfE
 
 how cpu supports virtualization to run my code in vmware/virtualbox/docker
