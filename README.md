@@ -8,6 +8,7 @@ https://www.youtube.com/watch?v=cNN_tTXABUA
 
 cpu diy
 https://eater.net/8bit/alu
+https://gigatron.io/
 
 computer diy in minecraft
 https://minecraft.gamepedia.com/Tutorials/Redstone_computers
