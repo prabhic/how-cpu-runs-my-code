@@ -9,6 +9,9 @@ https://www.youtube.com/watch?v=cNN_tTXABUA
 cpu diy
 https://www.youtube.com/watch?v=tHHKoiVzqfE
 
+computer diy in minecraft
+https://minecraft.gamepedia.com/Tutorials/Redstone_computers
+
 how cpu supports virtualization to run my code in vmware/virtualbox/docker
 https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/virtualization-enabling-intel-virtualization-technology-features-and-benefits-paper.pdf
 
