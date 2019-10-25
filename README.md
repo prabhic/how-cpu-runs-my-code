@@ -1,5 +1,10 @@
 # how-cpu-runs-my-code
-end to end understanding of software code, and the way it executes.
+end to end understanding of the way my code executes in computer.
+
+All about CPU tick
+
+diy cpu
+https://www.youtube.com/watch?v=tHHKoiVzqfE
 
 how cpu supports virtualization to run my code in vmware/virtualbox/docker
 https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/virtualization-enabling-intel-virtualization-technology-features-and-benefits-paper.pdf
