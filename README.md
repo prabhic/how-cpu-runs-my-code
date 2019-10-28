@@ -2,9 +2,6 @@
 end to end understanding of the way my code executes in computer.
 Top 3 resources are collected, what i think is best that i have come across in internet. welcome to raise a PR.
 
-All about CPU tick
-
-
 cpu overview
 1. https://www.youtube.com/watch?v=AVy9LLPTH9Q
 2. https://www.youtube.com/watch?v=cNN_tTXABUA
@@ -13,6 +10,9 @@ cpu diy
 1. https://eater.net/8bit/alu
 2. https://www.homebrewcpuring.org/
 3. https://gigatron.io/
+
+what is cpu tick, why it is important
+1. todo
 
 computer diy in minecraft
 1. https://minecraft.gamepedia.com/Tutorials/Redstone_computers
