@@ -4,6 +4,9 @@ Top 3 resources are collected, what i think is best that i have come across in i
 
 All about CPU tick
 
+computer overview
+1. https://www.youtube.com/watch?v=AVy9LLPTH9Q
+
 cpu overview
 1. https://www.youtube.com/watch?v=cNN_tTXABUA
 
