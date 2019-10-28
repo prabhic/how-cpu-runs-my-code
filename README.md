@@ -4,7 +4,8 @@ Top 3 resources are collected, what i think is best that i have come across in i
 
 cpu overview
 1. https://www.youtube.com/watch?v=AVy9LLPTH9Q
-2. https://www.youtube.com/watch?v=cNN_tTXABUA
+2. https://www.youtube.com/watch?v=NKYgZH7SBjk&list=RDAVy9LLPTH9Q&index=4
+3. https://www.youtube.com/watch?v=cNN_tTXABUA
 
 cpu diy
 1. https://eater.net/8bit/alu
