@@ -1,5 +1,6 @@
 # how-cpu-runs-my-code
 end to end understanding of the way my code executes in computer.
+Top 3 resources are given, what i think is best that i have come across in internet. welcome to raise a PR.
 
 All about CPU tick
 
@@ -26,3 +27,6 @@ https://www.csd.uoc.gr/~hy428/reading/qemu-internals-slides-apr18-2016.pdf
 CPU emulattion core files QEMU vs v86 Javascript emulator
 https://git.qemu.org/?p=qemu.git;a=blob_plain;f=cpus.c;hb=refs/heads/master
 https://github.com/copy/v86/blob/master/src/cpu.js
+
+how the output is displayed onto screen
+http://www.eng.ucy.ac.cy/theocharides/Courses/ECE664/VGA.pdf
