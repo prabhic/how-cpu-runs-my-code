@@ -8,6 +8,7 @@ cpu overview
 3. https://www.youtube.com/watch?v=cNN_tTXABUA
 
 https://www.youtube.com/watch?v=C-r8rUydKHo (temporary)
+https://www.youtube.com/watch?v=VBDoT8o4q00
 
 cpu diy
 1. https://eater.net/8bit/alu
