@@ -36,7 +36,7 @@ CPU emulattion core files QEMU vs v86 Javascript emulator
 how the output is displayed onto screen
 1. http://www.eng.ucy.ac.cy/theocharides/Courses/ECE664/VGA.pdf
 
-Round 2, Still not enough, want to know more in depth.
+#Round 2, Still not enough, want to know more in depth.
 
 How a single bit is stored in computer
 1. https://www.youtube.com/watch?v=sTu3LwpF6XI
