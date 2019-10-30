@@ -40,3 +40,4 @@ how the output is displayed onto screen
 
 How a single bit is stored in computer
 1. https://www.youtube.com/watch?v=sTu3LwpF6XI
+https://www.youtube.com/watch?v=KM0DdEaY5sY
